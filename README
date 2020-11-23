@@ -1,4 +1,4 @@
-hOp -- Sébastien Carlier and Jérémy Bobbio
+hOp -- SÃ©bastien Carlier and JÃ©rÃ©my Bobbio
 
 What is hOp ?
 =============
@@ -17,6 +17,9 @@ All functions from the base hierarchical library outside of the System
 module is available.  This includes threads, communication primitives
 and the foreign interface, which means that experimenting with writing
 drivers in Haskell should be reasonably easy.
+
+non-trivial runtime system (RTS)
+https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/runtime_control.html
 
 Building
 ========
